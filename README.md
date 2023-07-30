@@ -1,4 +1,11 @@
 ﻿# iot-blynk-Line-Notify
-Using Adafruit_Sensor-master <br />
-Using DHT-sensor-library-master <br />
-Using TridentTD_LineNotify-master
+An iot Project using Blynk and board Esp8266
+
+### Prerequisites
+  - Using Adafruit_Sensor-master
+  - Using DHT-sensor-library-master
+  - Using TridentTD_LineNotify-master
+  - Blynk Appication
+  - Esp8266 iot board
+  - Line Notify Token
+
